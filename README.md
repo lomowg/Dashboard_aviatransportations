@@ -17,8 +17,10 @@ The database has the structure:
 
 # Data conversion
 
-To load the data into Tableau, I using **Python** unloaded the tables from the database into .xlsx files and imported them into Tableau. 
+To load the data into Tableau, I using **Python** unloaded the tables from the database into .xlsx files and imported them into Tableau.
+
 The conversion code is in **Data_downloading.ipynb**
+
 The finished .xlsx files are in the **Excel data** folder
 
 # Dashboard
